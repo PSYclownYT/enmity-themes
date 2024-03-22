@@ -1,5 +1,5 @@
   {
-  "name": "thefuckingdog",
+  "name": "the fucking dog",
   "description": "oh god the dog took over discord",
   "version": "1.3",
   "authors": [
@@ -151,7 +151,7 @@
     "CHAT_GREY": "#0a0d19"
   },
   "background": {
-    "blur": 0.5,
+    "blur": 0,
     "url": "https://github.com/PSYclownYT/BSS/blob/a8d1ae31cc4e8eb049c2e7bec63ae13885e94f74/IMG_2467.jpeg?raw=true",
     "alpha": 1.0
   }
